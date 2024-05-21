@@ -1,5 +1,5 @@
 ---
-title: Welcome!
+title: Welcome to my Garden!
 ---
 
 This is a blank Quartz installation.
